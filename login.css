@@ -1,0 +1,43 @@
+.a1{
+    padding-top: 60px;
+    padding-left: 70px;
+}
+.a2{
+    margin:10px;
+}
+.a3{
+    color:black;
+    font-weight: bold;
+}
+.a4{
+    color: rgb(114, 114, 112);
+}
+.a8{
+    color: blue;
+    padding-left: 3px;
+    font-weight: bold;
+}
+.a9{
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+.a10{
+    color: blue;
+    padding-left: 270px;
+}
+.a11{
+    padding-top: 5px;
+}
+.a6{
+    padding-left: 2px;
+    padding-right: 2px;
+    color: rgb(114, 114, 112);
+}
+.a5{
+    background-color:aliceblue;
+    border-radius: 5px;
+    padding-left: 150px;
+    padding-top:3px;
+    width: 500px;
+    height: 40px;
+}
